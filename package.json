@@ -2,7 +2,7 @@
   "name": "Horloge",
   "version": "0.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +14,8 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/sawyerlin/Horloge/issues"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "~0.35.0"
   }
 }
